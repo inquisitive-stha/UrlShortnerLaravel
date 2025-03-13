@@ -19,8 +19,8 @@ This one is based on Domain Driven Design (DDD) and only modules created here is
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/inquisitive-stha/UrlShortnerLaravel.git
+    cd UrlShortnerLaravel
     ```
 
 2. Install PHP dependencies using Composer:
