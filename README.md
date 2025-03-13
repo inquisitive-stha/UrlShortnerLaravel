@@ -153,9 +153,10 @@ curl -X POST http://localhost:8000/api/v1/urls/decode -H "Content-Type: applicat
     - Set the body to raw JSON:
       ```json
       {
-        "shortUrl": "http://short.est/{shortCode}" // e.g. http://short.est/vw5EyD
+        "shortUrl": "http://short.est/{shortCode}"
       }
       ```
+      `e.g. http://short.est/vw5EyD`
 
 ## License
 
