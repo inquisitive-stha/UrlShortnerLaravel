@@ -13,7 +13,6 @@ This one is based on Domain Driven Design (DDD) and only modules created here is
 
 - PHP 8.2
 - Composer
-- npm
 
 ## Installation
 
