@@ -95,9 +95,10 @@ POST /api/v1/urls/decode
 **Request Body:**
 ```json
 {
-    "shortUrl": "http://short.est/{shortCode}" // e.g. http://short.est/vw5EyD
+    "shortUrl": "http://short.est/{shortCode}" 
 }
 ```
+`e.g. http://short.est/vw5EyD`
 
 **Response:**
 ```json
